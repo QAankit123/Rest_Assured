@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-03-16T13:07:31 IST" name="Default suite" finished-at="2020-03-16T13:07:32 IST" duration-ms="1024">
+    <groups>
+    </groups>
+    <test started-at="2020-03-16T13:07:31 IST" name="Default test" finished-at="2020-03-16T13:07:32 IST" duration-ms="1024">
+      <class name="Base.PUT_Call">
+        <test-method signature="Update_A_Record()[pri:0, instance:Base.PUT_Call@55a561cf]" started-at="2020-03-16T13:07:31 IST" name="Update_A_Record" finished-at="2020-03-16T13:07:32 IST" duration-ms="1001" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Update_A_Record -->
+      </class> <!-- Base.PUT_Call -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
